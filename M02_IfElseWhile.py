@@ -50,5 +50,4 @@ while process == True:
         print("program terminated")
     else:  
       GPA = gpa_score(GPA)
-      print(GPA)
       message()
